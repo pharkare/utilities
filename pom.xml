@@ -10,6 +10,7 @@
 	<description>utilities scripts</description>
 	<modules>
 		<module>encrypt</module>
+		<module>encode</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
