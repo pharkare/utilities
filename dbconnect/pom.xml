@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.harkare</groupId>
 		<artifactId>utilities</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.1.0-SNAPSHOT</version>
 	</parent>
 	<groupId>org.harkare.utilities</groupId>
 	<artifactId>dbconnect</artifactId>
